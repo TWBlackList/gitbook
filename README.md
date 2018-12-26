@@ -2,7 +2,7 @@
 
 ## 什麼是 TWBlackList ？
 
-TWBlackList 是一個項目團隊，在 Telegrma 中有兩個機器人`@TWBlackList_bot`, `@CNBL_bot`及一個管理群組。
+TWBlackList 是一個項目團隊，在 Telegram 中有兩個機器人`@TWBlackList_bot`, `@CNBL_bot`及一個管理群組。
 
 #### 相關連結
 
