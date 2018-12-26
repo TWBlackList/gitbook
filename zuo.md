@@ -27,7 +27,7 @@
 `/user`取得 User ID  
 `/lsop`Operator 名冊
 
-#### 功能說明
+### 功能說明
 
 `BlackList`黑名單使用者進群會有提示  
 `AntiHalal`自動封鎖無法理解的語言  

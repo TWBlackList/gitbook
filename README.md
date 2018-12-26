@@ -4,7 +4,13 @@
 
 TWBlackList 是一個項目團隊，在 Telegram 中有兩個機器人`@TWBlackList_bot`, `@CNBL_bot`及一個管理群組。
 
-#### 相關連結
+### 差異
+
+* `@TWBlackList_bot`所有成員都是臺灣人
+* `@CNBL_bot` 包含跨團隊跨國籍（不含香港）的成員
+* 以上兩點不包含 Intern，但 Intern 的操作都會受到臺灣人監督。
+
+### 相關連結
 
 * 聯絡本項目 `@TW_Audit_bot`
 * [公告區](http://t.me/joinchat/AAAAAE4Gmo9-84s_vdzvAw)
